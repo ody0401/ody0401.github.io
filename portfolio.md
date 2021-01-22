@@ -3,6 +3,7 @@ layout: about
 title: Portfolio
 menu: true
 order: 1
+published: true
 ---
 
 * * *
@@ -10,23 +11,19 @@ order: 1
 <span style=
 "font-size:170%;
 font-weight:bold">
-김현우
+오대양
 </span>
 </center>
 
-<center>MAJOR : AI EENGINEERING</center>
-
-<center>Korean University</center>
-
-<center>145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea</center>
+<center>영남대학교 휴학중</center>
 
 ## Personal Data
 ---
-> 1995.11.4 대한민국,서울특별시,동작구 출생
+> 1996.10.24 대한민국, 경상북도 영천시
 
-> 연락처: khw11044@gmail.com
+> 연락처: ody0401@naver.com
 
-> Github : <a href="https://github.com/khw11044">https://github.com/khw11044</a>
+> Github : <a href="https://https://github.com/ody0401">https://https://github.com/ody0401</a>
 
 
 ## Education
@@ -119,7 +116,3 @@ Hansung Univ – ETRI
 【출원번호】: 10-2020-0080646
 
 【출원인】: 김현우, 김태현, 제진명
-
-
-
-
