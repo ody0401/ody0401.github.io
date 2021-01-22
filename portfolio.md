@@ -29,4 +29,4 @@ font-weight:bold">
 
 ## Skills
 ---
--Language : javascript, React.js, Redux, node.js
+-Language : javascript, react, redux, node.js
